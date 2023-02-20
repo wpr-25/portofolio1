@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-no-undef */
 export default function Footer() {
     return (
         <div>
@@ -138,7 +139,7 @@ export default function Footer() {
   </div>
   <div class="text-center p-6 bg-gray-200">
     <span>© 2023 Copyright:</span>
-    <a class="text-gray-600 font-semibold" href="https://tailwind-elements.com/">wpr-25</a>
+    <Link class="text-gray-600 font-semibold" href="/">wpr-25</Link>
   </div>
 </footer>
             </div>
