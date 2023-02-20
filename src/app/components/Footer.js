@@ -137,8 +137,8 @@ export default function Footer() {
     </div>
   </div>
   <div class="text-center p-6 bg-gray-200">
-    <span>© 2021 Copyright:</span>
-    <a class="text-gray-600 font-semibold" href="https://tailwind-elements.com/">Tailwind Elements</a>
+    <span>© 2023 Copyright:</span>
+    <a class="text-gray-600 font-semibold" href="https://tailwind-elements.com/">wpr-25</a>
   </div>
 </footer>
             </div>
