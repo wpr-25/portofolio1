@@ -231,7 +231,7 @@ export default function Navbar() {
                                 <div>
                                     <img
                                         className="h-8 w-auto"
-                                        src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=600"
+                                        src="https://cdn-icons-png.flaticon.com/512/1125/1125008.png"
                                         alt="Your Company"
                                     />
                                 </div>
