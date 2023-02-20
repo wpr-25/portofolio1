@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 /* eslint-disable react/jsx-no-undef */
 export default function Footer() {
     return (
@@ -88,16 +90,16 @@ export default function Footer() {
           Useful links
         </h6>
         <p class="mb-4">
-          <a href="#!" class="text-gray-600">About</a>
+          <Link href="about" class="text-gray-600">About</Link>
         </p>
         <p class="mb-4">
-          <a href="#!" class="text-gray-600">Website</a>
+          <Link href="#!" class="text-gray-600">Website</Link>
         </p>
         <p class="mb-4">
-          <a href="#!" class="text-gray-600">Security</a>
+          <Link href="#!" class="text-gray-600">Security</Link>
         </p>
         <p>
-          <a href="#!" class="text-gray-600">Contact</a>
+          <Link href="#!" class="text-gray-600">Contact</Link>
         </p>
       </div>
       <div class="">
