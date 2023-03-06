@@ -34,22 +34,22 @@ export default function Home() {
         <div className="grid grid-cols-2 grid-rows-2 gap-4 sm:gap-6 lg:gap-8">
           <img
             src="instagram.gif"
-            alt="Walnut card tray with white powder coated steel divider and 3 punchout holes."
+            alt=" 3 p."
             className="rounded-lg bg-gray-100"
           />
           <img
             src="facebook.gif"
-            alt="Top down view of walnut card tray with embedded magnets and card groove."
+            alt="d me."
             className="rounded-lg bg-gray-100"
           />
           <img
             src="youtube.gif"
-            alt="Side of walnut card tray with card groove and recessed card area."
+            alt="S witheced carea."
             className="rounded-lg bg-gray-100"
           />
           <img
             src="pinterest.gif"
-            alt="Walnut card tray filled with cards and card angled in dedicated groove."
+            alt="Wailled withd c in deted grve."
             className="rounded-lg bg-gray-100"
           />
         </div>
@@ -100,100 +100,100 @@ export default function Home() {
         </div>
       </div>
 
-      <div class="bg-white ">
-        <div class="mx-auto max-w-7xl px-6 lg:px-8">
-          <div class="mx-auto max-w-2xl lg:text-center">
-            <h2 class="text-lg font-semibold leading-8 tracking-tight text-black">Deploy faster</h2>
-            <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Everything you need to deploy your app</p>
-            <p class="mt-6 text-lg leading-8 text-gray-600">Develope Your Site using Next.Js Framework and TailwindCss Library React Js .</p>
+      <div className="bg-white ">
+        <div className="mx-auto max-w-7xl px-6 lg:px-8">
+          <div className="mx-auto max-w-2xl lg:text-center">
+            <h2 className="text-lg font-semibold leading-8 tracking-tight text-black">Deploy faster</h2>
+            <p className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Everything you need to deploy your app</p>
+            <p className="mt-6 text-lg leading-8 text-gray-600">Develope Your Site using Next.Js Framework and TailwindCss Library React Js .</p>
           </div>
-          <div class="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-4xl">
-            <dl class="grid max-w-xl grid-cols-1 gap-y-10 gap-x-8 lg:max-w-none lg:grid-cols-2 lg:gap-y-16">
-              <div class="relative pl-16">
-                <dt class="text-base font-semibold leading-7 text-gray-900">
-                  <div class="absolute top-0 left-0 flex h-10 w-10 items-center justify-center rounded-lg bg-black">
+          <div className="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-4xl">
+            <dl className="grid max-w-xl grid-cols-1 gap-y-10 gap-x-8 lg:max-w-none lg:grid-cols-2 lg:gap-y-16">
+              <div className="relative pl-16">
+                <dt className="text-base font-semibold leading-7 text-gray-900">
+                  <div className="absolute top-0 left-0 flex h-10 w-10 items-center justify-center rounded-lg bg-black">
 
-                    <svg class="h-6 w-6 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+                    <svg className="h-6 w-6 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
                       <path stroke-linecap="round" stroke-linejoin="round" d="M12 16.5V9.75m0 0l3 3m-3-3l-3 3M6.75 19.5a4.5 4.5 0 01-1.41-8.775 5.25 5.25 0 0110.233-2.33 3 3 0 013.758 3.848A3.752 3.752 0 0118 19.5H6.75z" />
                     </svg>
                   </div>
                   Push to deploy
                 </dt>
-                <img className="h-60" src="designer-building-website.gif" />
+                <img className="h-60" src="designer-building-website.gif" alt="1" />
                 <dd class="mt-2 text-base leading-7 text-gray-600">Push and Deploy using Git to Vercel.</dd>
               </div>
 
-              <div class="relative pl-16">
-                <dt class="text-base font-semibold leading-7 text-gray-900">
-                  <div class="absolute top-0 left-0 flex h-10 w-10 items-center justify-center rounded-lg bg-black">
+              <div className="relative pl-16">
+                <dt className="text-base font-semibold leading-7 text-gray-900">
+                  <div className="absolute top-0 left-0 flex h-10 w-10 items-center justify-center rounded-lg bg-black">
 
-                    <svg class="h-6 w-6 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+                    <svg className="h-6 w-6 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
                       <path stroke-linecap="round" stroke-linejoin="round" d="M16.5 10.5V6.75a4.5 4.5 0 10-9 0v3.75m-.75 11.25h10.5a2.25 2.25 0 002.25-2.25v-6.75a2.25 2.25 0 00-2.25-2.25H6.75a2.25 2.25 0 00-2.25 2.25v6.75a2.25 2.25 0 002.25 2.25z" />
                     </svg>
                   </div>
                   SSL certificates
                 </dt>
-                <img className="h-60" src="search-for-interface.gif" />
-                <dd class="mt-2 text-base leading-7 text-gray-600">Certificates Comodo or other SSL Certificates.</dd>
+                <img className="h-60" src="search-for-interface.gif" alt="2"/>
+                <dd className="mt-2 text-base leading-7 text-gray-600">Certificates Comodo or other SSL Certificates.</dd>
               </div>
 
-              <div class="relative pl-16">
-                <dt class="text-base font-semibold leading-7 text-gray-900">
-                  <div class="absolute top-0 left-0 flex h-10 w-10 items-center justify-center rounded-lg bg-black">
+              <div className="relative pl-16">
+                <dt className="text-base font-semibold leading-7 text-gray-900">
+                  <div className="absolute top-0 left-0 flex h-10 w-10 items-center justify-center rounded-lg bg-black">
 
-                    <svg class="h-6 w-6 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+                    <svg className="h-6 w-6 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
                       <path stroke-linecap="round" stroke-linejoin="round" d="M16.023 9.348h4.992v-.001M2.985 19.644v-4.992m0 0h4.992m-4.993 0l3.181 3.183a8.25 8.25 0 0013.803-3.7M4.031 9.865a8.25 8.25 0 0113.803-3.7l3.181 3.182m0-4.991v4.99" />
                     </svg>
                   </div>
                   Simple queues
                 </dt>
-                <img className="h-60" src="website-maintenance.gif" />
-                <dd class="mt-2 text-base leading-7 text-gray-600">Simple queues for deploy your site.</dd>
+                <img className="h-60" src="website-maintenance.gif" alt="3"/>
+                <dd className="mt-2 text-base leading-7 text-gray-600">Simple queues for deploy your site.</dd>
               </div>
 
-              <div class="relative pl-16">
-                <dt class="text-base font-semibold leading-7 text-gray-900">
-                  <div class="absolute top-0 left-0 flex h-10 w-10 items-center justify-center rounded-lg bg-black">
+              <div className="relative pl-16">
+                <dt className="text-base font-semibold leading-7 text-gray-900">
+                  <div className="absolute top-0 left-0 flex h-10 w-10 items-center justify-center rounded-lg bg-black">
 
-                    <svg class="h-6 w-6 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+                    <svg className="h-6 w-6 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
                       <path stroke-linecap="round" stroke-linejoin="round" d="M7.864 4.243A7.5 7.5 0 0119.5 10.5c0 2.92-.556 5.709-1.568 8.268M5.742 6.364A7.465 7.465 0 004.5 10.5a7.464 7.464 0 01-1.15 3.993m1.989 3.559A11.209 11.209 0 008.25 10.5a3.75 3.75 0 117.5 0c0 .527-.021 1.049-.064 1.565M12 10.5a14.94 14.94 0 01-3.6 9.75m6.633-4.596a18.666 18.666 0 01-2.485 5.33" />
                     </svg>
                   </div>
                   Advanced security
                 </dt>
-                <img className="h-60" src="security-research.gif" />
-                <dd class="mt-2 text-base leading-7 text-gray-600">Guide OWASP Top-10 2021 and For Infrastructure Using NIST Sp 80-30.</dd>
+                <img className="h-60" src="security-research.gif" alt="4"/>
+                <dd className="mt-2 text-base leading-7 text-gray-600">Guide OWASP Top-10 2021 and For Infrastructure Using NIST Sp 80-30.</dd>
               </div>
             </dl>
           </div>
         </div>
       </div>
 
-      <section class="overflow-hidden text-gray-700">
-        <div class="container px-5 py-2 mx-auto lg:pt-24 lg:px-32">
-          <div class="flex flex-wrap -m-1 md:-m-2">
-            <div class="flex flex-wrap w-1/2">
-              <div class="w-1/2 p-1 md:p-2">
-                <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg hover:scale-75 transition duration-300 ease-in-out "
+      <section className="overflow-hidden text-gray-700">
+        <div className="container px-5 py-2 mx-auto lg:pt-24 lg:px-32">
+          <div className="flex flex-wrap -m-1 md:-m-2">
+            <div className="flex flex-wrap w-1/2">
+              <div className="w-1/2 p-1 md:p-2">
+                <img alt="gary" className="block object-cover object-center w-full h-full rounded-lg hover:scale-75 transition duration-300 ease-in-out "
                   src="12595-zap-loading.gif" />
               </div>
-              <div class="w-1/2 p-1 md:p-2">
+              <div className="w-1/2 p-1 md:p-2">
 
               </div>
-              <div class="w-full p-1 md:p-2">
-                <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
+              <div className="w-full p-1 md:p-2">
+                <img alt="gas" className="block object-cover object-center w-full h-full rounded-lg"
                   src="122604-ux-ui-design-process-animation.gif" />
               </div>
             </div>
-            <div class="flex flex-wrap w-1/2">
-              <div class="w-full p-1 md:p-2">
-                <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
+            <div className="flex flex-wrap w-1/2">
+              <div className="w-full p-1 md:p-2">
+                <img alt="gaer" className="block object-cover object-center w-full h-full rounded-lg"
                   src="5506-networked-data.gif" />
               </div>
-              <div class="w-1/2 p-1 md:p-2">
+              <div className="w-1/2 p-1 md:p-2">
 
               </div>
-              <div class="w-1/2 p-1 md:p-2">
+              <div className="w-1/2 p-1 md:p-2">
 
               </div>
             </div>
